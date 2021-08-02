@@ -1,0 +1,19 @@
+{
+    "name": "hello-express",
+    "version": "2.0.0",
+    "description": "Emoji-rol sistemi botu - CodAre tarafından paylaşıldı.",
+    "main": "role.js",
+    "scripts": {
+        "start": "node role.js",
+        "test": "node tests.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sam-DevZ/Discord-RoleReact.git"
+    },
+    "author": "CodAre",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
